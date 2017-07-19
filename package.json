@@ -1,0 +1,25 @@
+{
+  "name": "erwar-currency",
+  "version": "0.0.2",
+  "description": "format currency number to IDR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwinwahyura/erwar-currency.git"
+  },
+  "keywords": [
+    "formatter",
+    "currency",
+    "idr",
+    "rupiah"
+  ],
+  "author": "Erwin W Ramadhan <erwinwahyuramadhan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwinwahyura/erwar-currency/issues"
+  },
+  "homepage": "https://github.com/erwinwahyura/erwar-currency#readme"
+}
