@@ -1,4 +1,4 @@
-#erwar-currency
+# erwar-currency
 
 A simple library to convert or to give you format number in IDR (Rupiah)
 
